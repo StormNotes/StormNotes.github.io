@@ -242,6 +242,30 @@ h2.sub-title::after{
 
 }
 
+.infor1 {
+
+  margin-left: -30px;
+  margin: 80px;
+  display: inline;
+  text-align:center;
+  padding: 60px;
+  border: 3px solid white;
+  background: #454545;
+  color: white;
+  text-decoration:none;
+  border-radius: 100px;
+  text-align: left;
+  display: inline-block;
+  transition-duration: 1.9s;
+  font-size: 16px;
+
+}
+
+.infor1 ul li {
+margin-left: -30px;
+
+}
+
 .infor {
 
   margin-left: 20px;
